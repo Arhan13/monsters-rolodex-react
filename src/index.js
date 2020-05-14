@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';//Allowa us to write html
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
